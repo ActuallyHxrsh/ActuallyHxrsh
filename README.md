@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Harsh  
+❕**14-year-old student | Interested in AI and Technology**
 
-<!--
-**ActuallyHxrsh/ActuallyHxrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+I’m a student who’s deeply curious about how technology works — especially artificial intelligence
+I enjoy exploring new ideas, learning from what I build, and understanding the logic behind modern tools and systems.  
 
-Here are some ideas to get you started:
+### 🎯 - - -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+🧠 Interests: `Artificial Intelligence` • `Technology` •   
+⚙️ Tools I use: `VS Code` • `GitHub` • `Replit` • `Terminal`
+
+⭐ with great responsibility comes great power
+
